@@ -8,7 +8,7 @@ $$ F=3 Gbits=3000 Mbps,u_s=60,d_i=3Mbps $$
 
 Time to distribute F to N clients using client-server approach:
 
-$$ D_(c-s)≥max⁡(NF/u_s ,F/d_min ) $$
+$$ D_{c-s}≥max⁡(NF/u_s ,F/d_min ) $$
 
 $$ N=10,→max⁡((3000*10)/60,3000/3)=max⁡(500,1000)=1000 $$
 
