@@ -63,14 +63,17 @@ $$ N=1000,u=3→max⁡{3000/60,3000/3,(1000*3000)/((60+3*1000) )}=max⁡{50,1000
 **A)**
 
 $$ 2*t+3*2t=8t $$
+
 It requires one RTT to establish a connection and then a total of four different RTTs.
 
 **B)**
+
 $$ 2*t+3*2t=8t $$
 
 It requires one RTT to establish a connection and then a total of four different RTTs.
 
 **C)**
+
 $$ 2t $$
 
 It requires one RTT to establish a connection and then the local DNS will return the result during the next RTT. This is the same for both scenarios.
