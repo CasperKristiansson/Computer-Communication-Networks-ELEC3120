@@ -162,4 +162,5 @@ Acknowledgment number: 128
 
 **D)**
 
-![](RackMultipart20221028-1-8szgt1_html_52e9a465dfbcb7a.png)
+![Networks HW2 - Page 1](https://user-images.githubusercontent.com/36133918/198665807-a87e5b92-a47e-4bc4-8c5d-2cf7b046eb04.png)
+
