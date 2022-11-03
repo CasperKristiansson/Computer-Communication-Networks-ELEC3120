@@ -8,7 +8,7 @@ $$ F=3 Gbits=3000 Mbps,u_s=60,d_i=3Mbps $$
 
 Time to distribute F to N clients using client-server approach:
 
-$$ D_(c-s)≥max⁡(NF/u_s ,F/d_min ) $$
+$$ D_{c-s}≥max⁡(NF/u_s ,F/d_min ) $$
 
 $$ N=10,→max⁡((3000*10)/60,3000/3)=max⁡(500,1000)=1000 $$
 
@@ -29,19 +29,25 @@ $$ D_{2P2}≥max⁡{F/u_s ,F/d_{min} ,NF/((u_s+∑u_i ) )} $$
 #
 
 $$ N=10,u=0.3→max⁡{3000/60,3000/3,(10*3000)/((60+0.3*10) )}=max⁡{50,1000,476}=1000 $$
+
 $$ N=10,u=1→max⁡{3000/60,3000/3,(10*3000)/((60+1*10) )}=max⁡{50,1000,428.57}=1000 $$
+
 $$ N=10,u=3→max⁡{3000/60,3000/3,(10*3000)/((60+3*10) )}=max⁡{50,1000,333}=1000 $$
 
 #
 
 $$ N=100,u=0.3→max⁡{3000/60,3000/3,(100*3000)/((60+0.3*100) )}=max⁡{50,1000,3333.33}=3333 $$
+
 $$ N=100,u=1→max⁡{3000/60,3000/3,(100*3000)/((60+1*100) )}=max⁡{50,1000,1875}=1875 $$
+
 $$ N=100,u=3→max⁡{3000/60,3000/3,(100*3000)/((60+3*100) )}=max⁡{50,1000,833.33}=1000 $$
 
 #
 
 $$ N=1000,U=0.3→max⁡{3000/60,3000/3,(1000*3000)/((60+0.3*1000) )}=max⁡{50,1000,8333.33}=8333.33 $$
+
 $$ N=1000,u=1→max⁡{3000/60,3000/3,(1000*3000)/((60+1*1000) )}=max⁡{50,1000,2830.19}=2830.19 $$
+
 $$ N=1000,u=3→max⁡{3000/60,3000/3,(1000*3000)/((60+3*1000) )}=max⁡{50,1000,980.39}=1000 $$
 
 
@@ -57,14 +63,17 @@ $$ N=1000,u=3→max⁡{3000/60,3000/3,(1000*3000)/((60+3*1000) )}=max⁡{50,1000
 **A)**
 
 $$ 2*t+3*2t=8t $$
+
 It requires one RTT to establish a connection and then a total of four different RTTs.
 
 **B)**
+
 $$ 2*t+3*2t=8t $$
 
 It requires one RTT to establish a connection and then a total of four different RTTs.
 
 **C)**
+
 $$ 2t $$
 
 It requires one RTT to establish a connection and then the local DNS will return the result during the next RTT. This is the same for both scenarios.
@@ -162,4 +171,5 @@ Acknowledgment number: 128
 
 **D)**
 
-![](RackMultipart20221028-1-8szgt1_html_52e9a465dfbcb7a.png)
+![Networks HW2 - Page 1](https://user-images.githubusercontent.com/36133918/198665807-a87e5b92-a47e-4bc4-8c5d-2cf7b046eb04.png)
+
