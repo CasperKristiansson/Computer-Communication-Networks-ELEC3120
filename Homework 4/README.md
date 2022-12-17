@@ -4,7 +4,7 @@
 
 **A)**
 
-![](RackMultipart20221201-1-uqlweg_html_407fb5fadeda0adc.png)
+![image](https://user-images.githubusercontent.com/36133918/205082030-0ed642e4-3ccc-4d9e-9c46-c715e79e6c2c.png)
 
 **B)**
 
@@ -35,14 +35,20 @@
 ## Question 2
 
 **A)**
+![image](https://user-images.githubusercontent.com/36133918/205082154-51bf0e7b-74da-46e8-a275-6b594d5deb55.png)
 
 **B)**
 
 ### Node P Table
+![image](https://user-images.githubusercontent.com/36133918/205082220-0b4d56ba-f79e-4b5a-960d-e0cca5d66c98.png)
+![image](https://user-images.githubusercontent.com/36133918/205082250-1f4c9302-a502-4f41-ad39-8dedf1f79bb6.png)
+
 
 ### Node Q Table
+![image](https://user-images.githubusercontent.com/36133918/205082326-4ca06675-35e2-4dd8-90f6-c078a96160da.png)
 
 ### Node R Table
+![image](https://user-images.githubusercontent.com/36133918/205082367-9c146f70-bad1-4f4f-b5e3-ffe29b22444d.png)
 
 
 ## Question 3
@@ -92,15 +98,19 @@ $$ lim┬(N→∞)⁡〖Np(1-p)^(N-1) 〗=1/2e $$
 # Question 5
 
 **A)**
+![image](https://user-images.githubusercontent.com/36133918/205082515-c755317b-7175-4121-b656-0ff5e7841534.png)
+
 
 **B)**
+![image](https://user-images.githubusercontent.com/36133918/205082681-eca75e48-ac89-4b89-8bca-cd0721102a18.png)
 
 **C)**
+![image](https://user-images.githubusercontent.com/36133918/205082733-1cafad75-7aa1-4ad0-9a10-b9810821fc67.png)
 
 **D)**
+![image](https://user-images.githubusercontent.com/36133918/205082834-d6dce377-8ba7-4050-bec1-384d50c0d4db.png)
 
-
-# Question 6
+## Question 6
 
 **A)**
 
